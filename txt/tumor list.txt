@@ -1,0 +1,32 @@
+Anal tumor
+Bladder tumor
+Blood tumors
+Bone tumor
+Bowel tumor
+Brain tumours
+Breast tumor
+Ear tumor
+Endometrial tumor
+Eye tumor
+Hairy cell leukaemia
+Head tumor
+Kidney tumor
+Liver tumor
+Lung tumor
+Neck tumor
+Oesophageal tumor
+Ovarian tumor
+Pancreatic tumor
+Penile tumor
+Prostate tumor
+Rectal tumor
+Skin tumor
+Stomach tumor
+Thyroid tumor
+Tongue tumor
+Tonsil tumor
+Uterine tumor
+Vaginal tumor
+Vulval tumor
+Womb tumor
+other
